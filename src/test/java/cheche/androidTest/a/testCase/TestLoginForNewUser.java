@@ -57,6 +57,9 @@ public class TestLoginForNewUser extends Case{
 					 WebElement target = wait.until(
 					 	     ExpectedConditions.presenceOfElementLocated(By.xpath("//*[contains(@text,'验证码')]")));
 					 System.out.println(target.getText());
+					 
+					 
+					 Thread.sleep(3000);
 		         	
 					 
 				  
