@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="18.898">
+           time="22.148">
   <properties />
   
   
-            <testcase name="testLoginForNewUser" time="18.898" classname="cheche.androidTest.a.testCase.TestLoginForNewUser" />
+            <testcase name="testLoginForNewUser" time="22.148" classname="cheche.androidTest.a.testCase.TestLoginForNewUser" />
       
 </testsuite>

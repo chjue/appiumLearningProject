@@ -25,10 +25,10 @@ public class Utils {
 		   DesiredCapabilities capabilities = new DesiredCapabilities();
 			 //  capabilities.setCapability("app", "C:\\Test\\apps\\chebaoyi.apk");//安装apk,在当前工程目录里健app文件夹，把被测 apk放进去
 				
-		        capabilities.setCapability("deviceName", "emulator-5554");  
+		        capabilities.setCapability("deviceName", "582af7ae4159");  
 		        capabilities.setCapability("automationName", "Appium");
 		        capabilities.setCapability("platformName", "Android");
-		        capabilities.setCapability("platformVersion", "5.0.2");
+		        capabilities.setCapability("platformVersion", "4.4.4");
 		        capabilities.setCapability("appPackage", packageName);
 		        capabilities.setCapability("appActivity", activityName);
 		  //      capabilities.setCapability("automationName", "uiautomator2");  //捕捉toast
